@@ -1,0 +1,5 @@
+0 coruja
+1 apagador
+2 borracha
+3 nada
+4 robo
